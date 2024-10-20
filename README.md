@@ -12,10 +12,13 @@
 
 ##My career
 2021: Learning C++ and write my first C++ project - <a href="https://github.com/ZkunCry/TemplateString">Custom Class string</a> 
+<br>
 2022: Start learning JavaScript and ReactJs framework. Create my first website <a href="https://zkuncry.github.io/SurGU_summerpractice/">Click here</a> 
+<br>
 2023: Learning Redux,RTK-Query,TypeScript and more JS-libs.
+<br>
 2024: Working on current project - Assistent student.
-
+<br>
 ## My skills
 <h5>Programming languages</h5>
 
