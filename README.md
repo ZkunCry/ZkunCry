@@ -10,7 +10,7 @@
 
 📫 You can reach me <a href="https://t.me/akseug">here.</a> 
 
-##My career
+## My career
 
 2021: Learning C++ and write my first C++ project - <a href="https://github.com/ZkunCry/TemplateString">Custom Class string</a> 
 <br>
